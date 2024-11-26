@@ -17,7 +17,7 @@ mvn spring-boot:run
 ```
 GET http://localhost:8080/api/clientes?tipoDocumento=C&numeroDocumento=79856321
 
-GET http://localhost:8080/api/clientes?tipoDocumento=P&numeroDocumento=AK47891
+GET http://localhost:8080/api/clientes?tipoDocumento=P&numeroDocumento=99876567
 ```
 
 ## ✨ Respuesta
@@ -35,7 +35,7 @@ GET http://localhost:8080/api/clientes?tipoDocumento=P&numeroDocumento=AK47891
 
 ## 🧪 Datos de prueba
 - Cédula: 79856321
-- Pasaporte: AK47891
+- Pasaporte: 99876567
 
 ## 📁 Estructura del proyecto
 ```

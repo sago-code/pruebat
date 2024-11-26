@@ -21,7 +21,7 @@ public class ClienteService {
         if (tipoDocumento == TipoDocumento.C && !numeroDocumento.equals("79856321")) {
             throw new RuntimeException("Cédula no encontrada");
         }
-        if (tipoDocumento == TipoDocumento.P && !numeroDocumento.equals("AK47891")) {
+        if (tipoDocumento == TipoDocumento.P && !numeroDocumento.equals("99876567")) {
             throw new RuntimeException("Pasaporte no encontrado");
         }
 
