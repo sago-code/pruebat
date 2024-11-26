@@ -54,4 +54,5 @@ src/
 ## ⚙️ Tecnologías
 - Java 23
 - Spring Boot 3.4.0-M1
+- Maven 3.9.9
 ```
