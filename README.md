@@ -13,12 +13,6 @@ Consultar datos de un cliente usando:
 mvn spring-boot:run
 ```
 
-
-
-## Cedula quemada para el endpoint: 79856321
-
-## Pasaporte quemado para el endpoint: AK47891
-
 ## 📝 Ejemplo de uso
 ```
 GET http://localhost:8080/api/clientes?tipoDocumento=C&numeroDocumento=79856321
